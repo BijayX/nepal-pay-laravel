@@ -1,5 +1,11 @@
 # Nepal Pay for Laravel
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/bijayx/nepal-pay-laravel.svg)](https://packagist.org/packages/bijayx/nepal-pay-laravel)
+[![Total Downloads](https://img.shields.io/packagist/dt/bijayx/nepal-pay-laravel.svg)](https://packagist.org/packages/bijayx/nepal-pay-laravel)
+[![CI](https://github.com/BijayX/nepal-pay-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/BijayX/nepal-pay-laravel/actions/workflows/ci.yml)
+[![PHP Version](https://img.shields.io/packagist/dependency-v/bijayx/nepal-pay-laravel/php.svg)](https://packagist.org/packages/bijayx/nepal-pay-laravel)
+[![License: MIT](https://img.shields.io/packagist/l/bijayx/nepal-pay-laravel.svg)](LICENSE)
+
 Khalti and eSewa payments for Laravel behind one typed API, with server-side verification,
 signature checks, amount/reference matching and consistent exceptions.
 
